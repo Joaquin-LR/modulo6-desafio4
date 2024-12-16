@@ -1,6 +1,5 @@
 <h1>Desafío 4: Acceso a una base de datos con Node y el paquete pg (Parte II)</h1>
-<p>Módulo 6: Backend con Node y Express (68) > Desafío - Like Me (Parte II)<br></p><br>
-
+<p>Módulo 6: Backend con Node y Express (68) > Desafío - Like Me (Parte II)<br><br></p>
 <h2>Instrucciones para el usuario</h2>
 
 <ol>
